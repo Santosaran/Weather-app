@@ -15,7 +15,7 @@
 
 ## Links
 
-     click here - {https://coruscating-zuccutto-06ed5c.netlify.app/)
+     click here - https://coruscating-zuccutto-06ed5c.netlify.app/
    
 ## screen shorts
 
