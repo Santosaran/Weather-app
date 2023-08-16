@@ -16,7 +16,7 @@ function App() {
       setLocation('')
     }
   }
-
+ 
   return (
     <div className="app">
       <div className="search">
