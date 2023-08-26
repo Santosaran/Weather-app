@@ -7,7 +7,7 @@
    Download the zip file
    and it show some error 
    check the tests
-   install the node modules
+   install the node modules 
    and also install axios 
    "npm start"
    "npm test"
