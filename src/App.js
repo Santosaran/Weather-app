@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import axios from 'axios' 
 
-function App() {
+function App() { 
   const [data, setData] = useState({})
   const [location, setLocation] = useState('')
  
