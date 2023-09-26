@@ -1,6 +1,6 @@
 # Weather Showing App 
 
-   hey there im created a weather showing app using React Js
+   hey there im created a weather showing app using React Js 
 
 ## How to use the file 
 
