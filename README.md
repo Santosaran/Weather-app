@@ -11,7 +11,7 @@
    and also install axios 
    "npm start"
    "npm test"
-   "npm build" 
+   "npm build"
 
 ### Links
 
